@@ -1,0 +1,38 @@
+.textofgroup{
+    margin:  auto;
+}
+.textofgroup1{
+    margin: 10 auto;
+    color: black;
+}
+.group{
+    text-align: center;
+}
+.cena{
+    opacity: 15px;
+}
+.textname{
+    text-align: center;
+}
+.photo1{
+    border-radius: 110px;
+}
+.photo2{
+    border-radius: 110px;
+}
+.photo3{
+    border-radius: 110px;
+}
+.photo4{
+    border-radius: 110px;
+}
+.margintopofcard{
+    margin-top: 125px;
+}
+.float1{
+    float: left;
+    margin-left:385px ;
+}
+.float4{
+    margin-right: 385px;
+}
